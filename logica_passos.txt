@@ -1,0 +1,25 @@
+
+
+conteudo = ler_dados()
+dados_validos = Externar(conteudo, nome_arquivo)
+	externar(DadosValidos):
+		init objeto, nome_arquivo == conteudo, 'notas.txt'
+		self.conteudo == LerDados(nome_arquivo)
+			arquivoInterface(nome_arquivo)
+				__get_arquivo()
+					__abrir_arquivo()
+						return: str
+					return: str
+				__ler_arquivo()
+					return str
+				return: str
+	return: objeto.conteudo == str
+
+dados = dados_validos.resultado()
+	dados
+
+dados_validos(externa)
+gerenciador(dados_validos)
+
+nome_notas(ler_dados)
+media(nome_notas)

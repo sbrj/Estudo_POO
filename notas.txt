@@ -1,0 +1,6 @@
+joao,5,1,2,4
+aurora,7,2,4,6
+felipe,8,2,5,8
+luana,5,3,7,5
+olivia,9,4,2,7
+marcelo,2,4,7,1
